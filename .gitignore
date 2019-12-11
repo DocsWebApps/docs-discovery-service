@@ -1,3 +1,6 @@
+log.output
+shutDown.bash
+startUp.bash
 environment.cmd
 startup.txt
 HELP.md
